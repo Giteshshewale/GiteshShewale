@@ -9,8 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 [![Phone](https://img.shields.io/badge/Phone-%2B91--8767765979-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+918767765979)
 
-</div>
-
+</div>;
 ---
 
 ## 👨‍💻 About Me
