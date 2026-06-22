@@ -36,7 +36,7 @@ class GiteshShewale:
         print("Thanks for stopping by — let's build something great together 🚀")
 
 GiteshShewale().say_hi()
-```
+` ` `
 
 > 💡 **Passionate about** turning real-world problems into clean, functional software.
 > 🔭 **Building** full-stack web apps with Django & REST APIs.
@@ -143,69 +143,4 @@ Profile-based matchmaking platform with browsing and discovery.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Giteshshewale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=a78bfa&icon_color=7dd3fc&text_color=e6edf3" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giteshshewale&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=a78bfa&text_color=e6edf3" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Giteshshewale&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=7dd3fc&currStreakLabel=e6edf3" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Giteshshewale&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=a78bfa&line=7dd3fc&point=06b6d4" width="98%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Giteshshewale&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&no-bg=true"/>
-
-</div>
-
----
-
-## 💡 Core Competencies
-
-| Area | Skills |
-|---|---|
-| 🔧 **Backend** | Django, REST APIs, PHP, Python, MVC Pattern |
-| 🗄️ **Databases** | MySQL, Oracle SQL, Schema Design, CRUD |
-| 🎨 **Frontend** | HTML5, CSS3, JavaScript, Bootstrap 5 |
-| 🖥️ **Desktop** | Python Tkinter, GUI Design |
-| 🧠 **Concepts** | OOP, Data Structures, Auth, MVC |
-| 🛠️ **Dev Tools** | Git, GitHub, VS Code, Google Colab |
-
----
-
-## 📚 Education
-
-| | Degree | Institution | Year |
-|---|---|---|---|
-| 🎓 | B.Sc. Computer Science | K.T.H.M. College, Nashik | 2022 – 2025 |
-| 📘 | HSC (12th) | K.A.M.V.P. Pimplaner | 2020 – 2022 |
-| 📗 | SSC (10th) | Adarsh Madhyamik Vidyalay, Umbhare | 2019 – 2020 |
-
----
-
-<div align="center">
-
-### 🤝 Open to Work
-
-*Actively looking for internships, freelance projects, and open-source collaborations.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gitesh-shewale-199079330)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giteshshewale2004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Giteshshewale)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918767765979)
-
-<br/>
-
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,40:3b82f6,70:6a3fc8,100:0d1117&height=130&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
+<img
