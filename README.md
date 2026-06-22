@@ -1,146 +1,216 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:6a3fc8,70:3b82f6,100:06b6d4&height=230&section=header&text=Gitesh%20Shewale&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20%E2%80%A2%20Django%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,50:6A5ACD,100:092E20&height=220&section=header&text=Hi%2C%20I'm%20Gitesh%20Shewale&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Django%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Building+REST+APIs+with+Django+%F0%9F%90%8D;Turning+ideas+into+full-stack+apps+%F0%9F%8C%90;CS+Graduate+%40+K.T.H.M.+College+%F0%9F%8E%93;Open+to+internships+%26+collaborations+%F0%9F%A4%9D;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gitesh-shewale-199079330)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giteshshewale2004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Giteshshewale)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918767765979)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Django+%26+REST+API+Builder+%F0%9F%94%A7;Full+Stack+Web+Developer+%F0%9F%8C%90;CS+Graduate+%40+K.T.H.M.+College+%F0%9F%8E%93;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Giteshshewale&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+<a href="mailto:giteshshewale2004@gmail.com"><img src="https://img.shields.io/badge/Email-giteshshewale2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/gitesh-shewale-199079330"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Giteshshewale"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://wa.me/918767765979"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Giteshshewale&color=6A5ACD&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
 ```python
 class GiteshShewale:
     def __init__(self):
         self.name      = "Gitesh Shewale"
-        self.role      = ["Python Developer", "Django Developer", "Full Stack Dev"]
-        self.education = "B.Sc. Computer Science — K.T.H.M. College, Nashik (2022–2025)"
+        self.role      = ["Python Developer", "Django Developer", "Full Stack Developer"]
+        self.education = "B.Sc. Computer Science @ K.T.H.M. College, Nashik (2022–2025)"
         self.location  = "Pune, India 📍"
         self.languages = ["English", "Hindi", "Marathi"]
-        self.seeking   = ["Internships", "Freelance", "Open Source Collabs"]
-        self.currently = "Building full-stack apps with Django & REST APIs"
+        self.currently = "Building full-stack web apps with Django & REST APIs"
 
     def say_hi(self):
-        print("Thanks for stopping by — let's build something great together 🚀")
+        print("Thanks for dropping by — let's build something great together 🚀")
 
 GiteshShewale().say_hi()
-` ` `
+```
 
-> 💡 **Passionate about** turning real-world problems into clean, functional software.
-> 🔭 **Building** full-stack web apps with Django & REST APIs.
-> ⚡ **Fun fact** — I speak 3 languages and code in a few more!
+<table>
+<tr>
+<td>
 
----
+🔭 **Currently building** full-stack web applications with Django & REST APIs
+🌱 **Always learning** backend patterns, database optimisation, and clean code
+💡 **Passionate about** turning real-world problems into clean, functional software
+🤝 **Open to** internships, freelance projects, and collaborations
+⚡ **Fun fact** — I speak 3 languages, and code in a few more!
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,php,mysql&theme=dark" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<br/><br/>
 
 **Frameworks & Tools**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=django,bootstrap,git,github,vscode,oracle&theme=dark" />
 
 </div>
 
----
+<br/>
 
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
+
 <tr>
 <td width="50%" valign="top">
 
 ### 🎓 Education Hub Platform
-**`Django` `REST API` `SQL` `HTML` `CSS` `JS`**
+**Python · Django · SQL · HTML · CSS · JS**
 
-Full-stack LMS with role-based access control for students and admins.
+Full-stack platform for managing courses, students, and enrollments with role-based access control.
 
-- ✅ Django REST backend with full CRUD
-- ✅ Role-based auth (student / admin)
-- ✅ Responsive UI with HTML, CSS & JS
-- ✅ Structured relational schema
+- Built backend REST APIs with Django for all CRUD operations
+- Role-based authentication for students and admins
+- Responsive UI with HTML, CSS & JavaScript
+- Structured relational schema for course/enrollment data
 
-[![Repo](https://img.shields.io/badge/View_Repo-%23181717?style=flat-square&logo=github)](https://github.com/Giteshshewale/Education-Hub)
+<a href="https://github.com/Giteshshewale/Education-Hub"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 👔 Employee Management System
-**`Python` `Tkinter` `MySQL`**
+### 👨‍💼 Employee Management System
+**Python · Tkinter · MySQL**
 
-Desktop HR tool replacing manual paper-based record keeping.
+Desktop application for managing employee records, built for non-technical HR users.
 
-- ✅ Full CRUD — add, edit, delete, search
-- ✅ Persistent MySQL storage
-- ✅ Intuitive GUI for non-technical users
+- Full CRUD — add, update, delete, search employees
+- MySQL integration for persistent storage
+- Intuitive Tkinter GUI
+- Replaced manual, paper-based record keeping
 
-[![Repo](https://img.shields.io/badge/View_Repo-%23181717?style=flat-square&logo=github)](https://github.com/Giteshshewale/Employee-System)
+<a href="https://github.com/Giteshshewale/Employee-System"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 🏋️ Gym Member Management
-**`PHP` `SQL` `Bootstrap`**
+### 🏋️ Gym Member Management System
+**PHP · SQL · HTML · CSS · Bootstrap**
 
-Web app to automate gym membership tracking and records.
+Web app to manage gym memberships and automate member record tracking.
 
-- ✅ Complete member CRUD
-- ✅ Responsive Bootstrap UI
-- ✅ Eliminated paper-based tracking
+- Complete CRUD for member data
+- Clean, responsive UI with Bootstrap
+- Eliminated paper-based tracking
+- Structured relational data storage
 
-[![Repo](https://img.shields.io/badge/View_Repo-%23181717?style=flat-square&logo=github)](https://github.com/Giteshshewale/Gym-Management-System)
+<a href="https://github.com/Giteshshewale/Gym-Management-System"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 💍 EliteMatch Matrimonial
-**`PHP` `SQL` `Bootstrap`**
+### 💍 EliteMatch Matrimonial Platform
+**PHP · SQL · HTML · CSS · Bootstrap**
 
-Profile-based matchmaking platform with browsing and discovery.
+Matrimonial web platform for profile discovery and matchmaking.
 
-- ✅ Profile creation & matching
-- ✅ Responsive front-end
-- ✅ Structured SQL backend
+- Profile creation, browsing, and matching
+- Responsive front-end with Bootstrap
+- Structured SQL backend for user data
 
-[![Repo](https://img.shields.io/badge/View_Repo-%23181717?style=flat-square&logo=github)](https://github.com/Giteshshewale/EliteMatch-Matrimonial-main)
+<a href="https://github.com/Giteshshewale/EliteMatch-Matrimonial-main"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
+
 </table>
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img
+<img src="https://github-readme-stats.vercel.app/api?username=Giteshshewale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giteshshewale&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Giteshshewale&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Giteshshewale&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Giteshshewale&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
+
+</div>
+
+<br/>
+
+## 💡 Core Competencies
+
+| Area | Skills |
+|---|---|
+| 🔧 Backend Development | Django, REST APIs, PHP, Python |
+| 🗄️ Database Management | MySQL, Oracle SQL, CRUD, Schema Design |
+| 🎨 Frontend | HTML5, CSS3, JavaScript, Bootstrap |
+| 🖥️ Desktop Apps | Python Tkinter, GUI Design |
+| 🧠 Concepts | OOP, Data Structures, Authentication, MVC |
+| 🛠️ Dev Tools | Git, GitHub, VS Code, Google Colab |
+
+<br/>
+
+## 📚 Education
+
+| Degree | Institution | Years |
+|---|---|---|
+| 🎓 B.Sc. Computer Science | K.T.H.M. College, Nashik | 2022 – 2025 |
+| 📘 HSC | K.A.M.V.P. Pimplaner | 2020 – 2022 |
+| 📗 SSC | Adarsh Madhyamik Vidyalay, Umbhare | 2019 – 2020 |
+
+<br/>
+
+<div align="center">
+
+### 💬 Let's Connect
+
+*Open to internships, freelance work, and exciting collaborations.*
+
+<a href="https://linkedin.com/in/gitesh-shewale-199079330"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:giteshshewale2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Giteshshewale"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://wa.me/918767765979"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+<br/><br/>
+
+*"Code is like humor. When you have to explain it, it's bad." — Cory House*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:092E20,50:6A5ACD,100:3776AB&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
