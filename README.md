@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,50:6A5ACD,100:092E20&height=220&section=header&text=Hi%2C%20I'm%20Gitesh%20Shewale&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Django%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Python+Developer+%F0%9F%90%8D;Django+%26+REST+API+Builder+%F0%9F%94%A7;Full+Stack+Web+Developer+%F0%9F%8C%90;CS+Graduate+%40+K.T.H.M.+College+%F0%9F%8E%93;Full+Stack+Intern+%40+Cognifyz+%F0%9F%92%BB;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Python+Developer+%F0%9F%90%8D;Django+%26+REST+API+Builder+%F0%9F%94%A7;Full+Stack+Web+Developer+%F0%9F%8C%90;CS+Graduate+%40+K.T.H.M.+College+%F0%9F%8E%93;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -25,7 +25,6 @@ class GiteshShewale:
         self.name        = "Gitesh Shewale"
         self.role        = ["Python Developer", "Django Developer", "Full Stack Developer"]
         self.education   = "B.Sc. Computer Science @ K.T.H.M. College, Nashik (2022–2025)"
-        self.internship  = "Full Stack Development OJT @ Cognifyz Technologies"
         self.location    = "Pune, India 📍"
         self.languages   = ["English", "Hindi", "Marathi"]
         self.currently   = "Building full-stack web apps with Django, DRF & React"
@@ -42,7 +41,6 @@ GiteshShewale().say_hi()
 <td>
 
 🔭 Currently building full-stack web applications with Django REST Framework & React
-🎓 Completed a Full Stack Development Internship (OJT) @ Cognifyz Technologies
 🌱 Always learning backend architecture, database optimisation, and clean code
 💡 Passionate about turning real-world problems into clean, functional software
 🤝 Open to internships, freelance projects, and collaborations
@@ -51,22 +49,6 @@ GiteshShewale().say_hi()
 </td>
 </tr>
 </table>
-
-<br/>
-
-## 🎓 On-the-Job Training — Cognifyz Technologies
-
-<div align="center">
-<img src="https://img.shields.io/badge/Internship-Cognifyz%20Technologies-6A5ACD?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Duration-1%20Month-3776AB?style=for-the-badge&logo=googlecalendar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tasks%20Completed-8%2F8-092E20?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-</div>
-
-**Key skills strengthened:** REST API design · Authentication & security (JWT, bcrypt) · Database integration (MongoDB) · OAuth & third-party APIs · Caching & background jobs (Redis, Bull) · Responsive front-end design
-
-<div align="center">
-<a href="https://github.com/Giteshshewale/Cognifyz-Internship-Project"><img src="https://img.shields.io/badge/View_Internship_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</div>
 
 <br/>
 
@@ -153,23 +135,6 @@ Matrimonial web platform for profile discovery and matchmaking.
 
 </td>
 </tr>
-<tr>
-<td colspan="2" width="100%" valign="top">
-
-### 💻 Full Stack Internship Capstone — Cognifyz Technologies
-**Django · MongoDB · Redis · JWT · OAuth**
-
-An 8-task, 4-level capstone (OJT) covering form handling, validation, REST APIs, authentication, caching, and external API integration — all launched from a single combined dashboard.
-
-- Combined dashboard to launch & monitor all 8 tasks
-- MongoDB + JWT/bcrypt authentication system
-- GitHub OAuth login + OpenWeatherMap integration
-- Redis caching + Bull background job queue
-
-<a href="https://github.com/Giteshshewale/Cognifyz-Internship-Project"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
-</td>
-</tr>
 </table>
 
 <br/>
@@ -203,17 +168,16 @@ An 8-task, 4-level capstone (OJT) covering form handling, validation, REST APIs,
 | 🗄️ Database Management | MySQL, PostgreSQL, MongoDB, Oracle SQL, CRUD, Schema Design |
 | 🔐 Authentication & Security | JWT, bcrypt, OAuth (GitHub), Session Management, Role-Based Access Control |
 | 🎨 Frontend | React, HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, Responsive Design |
-| ⚡ Performance | Redis Caching, Background Job Queues (Bull) |
+| ⚡ Performance | Redis Caching |
 | 🧠 Concepts | OOP, Data Structures, Authentication, MVC/MVT |
 | 🛠️ Dev Tools | Git, GitHub, VS Code, Google Colab |
 
 <br/>
 
-## 📚 Education & Training
+## 📚 Education
 
 | Program | Institution | Duration |
 |---|---|---|
-| 💻 Full Stack Development Internship (OJT) | Cognifyz Technologies | 1 Month |
 | 🎓 B.Sc. Computer Science | K.T.H.M. College, Nashik | 2022 – 2025 |
 | 📘 HSC | K.A.M.V.P. Pimplaner | 2020 – 2022 |
 | 📗 SSC | Adarsh Madhyamik Vidyalay, Umbhare | 2019 – 2020 |
