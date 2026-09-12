@@ -66,7 +66,7 @@ Completed a Full Stack Development internship at Cognifyz Technologies, structur
 
 | Level | Tasks | What I Built |
 |---|---|---|
-| 🟢 Beginner | 1–2 | Server-rendered forms with Node.js/EJS, dual-layer (client + server) validation |
+| 🟢 Beginner | 1–2 | Server-rendered forms with EJS templating, dual-layer (client + server) validation |
 | 🟡 Intermediate | 3–4 | Responsive Bootstrap layouts, hash-based SPA routing, live password-strength checker |
 | 🔵 Advanced | 5–6 | REST API CRUD app with `fetch()`, MongoDB + JWT/bcrypt authentication |
 | 🔴 Expert | 7–8 | GitHub OAuth + external weather API, Redis caching, Bull background job queues |
@@ -91,7 +91,7 @@ Completed a Full Stack Development internship at Cognifyz Technologies, structur
 
 **Frameworks, Databases & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=django,react,nodejs,bootstrap,mongodb,postgresql,redis,git,github,vscode,oracle&theme=dark" />
+<img src="https://skillicons.dev/icons?i=django,react,bootstrap,mongodb,postgresql,redis,git,github,vscode,oracle&theme=dark" />
 
 </div>
 
@@ -166,7 +166,7 @@ Matrimonial web platform for profile discovery and matchmaking.
 <td colspan="2" width="100%" valign="top">
 
 ### 💻 Full Stack Internship Capstone — Cognifyz Technologies
-**Node.js · Django · MongoDB · Redis · JWT · OAuth**
+**Django · MongoDB · Redis · JWT · OAuth**
 
 An 8-task, 4-level capstone (OJT) covering form handling, validation, REST APIs, authentication, caching, and external API integration — all launched from a single combined dashboard.
 
@@ -208,7 +208,7 @@ An 8-task, 4-level capstone (OJT) covering form handling, validation, REST APIs,
 
 | Area | Skills |
 |---|---|
-| 🔧 Backend Development | Django, Django REST Framework, Node.js, Express, REST APIs, PHP, Python |
+| 🔧 Backend Development | Django, Django REST Framework, REST APIs, PHP, Python |
 | 🗄️ Database Management | MySQL, PostgreSQL, MongoDB, Oracle SQL, CRUD, Schema Design |
 | 🔐 Authentication & Security | JWT, bcrypt, OAuth (GitHub), Session Management, Role-Based Access Control |
 | 🎨 Frontend | React, HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, Responsive Design |
