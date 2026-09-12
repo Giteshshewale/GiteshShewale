@@ -62,15 +62,6 @@ GiteshShewale().say_hi()
 <img src="https://img.shields.io/badge/Tasks%20Completed-8%2F8-092E20?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 </div>
 
-Completed a Full Stack Development internship at Cognifyz Technologies, structured across four difficulty levels — Beginner → Expert — with 8 hands-on tasks spanning the full web development lifecycle.
-
-| Level | Tasks | What I Built |
-|---|---|---|
-| 🟢 Beginner | 1–2 | Server-rendered forms with EJS templating, dual-layer (client + server) validation |
-| 🟡 Intermediate | 3–4 | Responsive Bootstrap layouts, hash-based SPA routing, live password-strength checker |
-| 🔵 Advanced | 5–6 | REST API CRUD app with `fetch()`, MongoDB + JWT/bcrypt authentication |
-| 🔴 Expert | 7–8 | GitHub OAuth + external weather API, Redis caching, Bull background job queues |
-
 **Key skills strengthened:** REST API design · Authentication & security (JWT, bcrypt) · Database integration (MongoDB) · OAuth & third-party APIs · Caching & background jobs (Redis, Bull) · Responsive front-end design
 
 <div align="center">
